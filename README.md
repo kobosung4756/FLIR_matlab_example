@@ -4,8 +4,8 @@ Streaming FLIR thermal imaging camera in matlab
 # 요구사항
 - **FLIR Lepton** 라디오메트릭 방식 LWIR 마이크로 열화상 카메라 모듈
 - **PureThermal 2** 보드
-- Image Acquisition Toolbox
-- Image Acquisition Toolbox Support Package for OS Generic Video Interface
+- (MATLAB) Image Acquisition Toolbox
+- (MATLAB) Image Acquisition Toolbox Support Package for OS Generic Video Interface
 <img width="200" height="303" alt="image" src="https://github.com/user-attachments/assets/72cd7917-ddd7-496f-8bb7-b0ccbf329050" />
 <img width="225" height="303" alt="image" src="https://github.com/user-attachments/assets/621b7902-81fd-4fbf-b7f2-cf3a72241672" />
 
